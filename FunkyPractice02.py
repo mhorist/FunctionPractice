@@ -1,6 +1,5 @@
 
 # setup a function w/List, Dictionary as 'Parameters'
-
 def func(list, dict):
     print("This is the list: ", list)
     print("This is the dict: ", dict)
